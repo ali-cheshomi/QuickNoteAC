@@ -1,8 +1,8 @@
-# ⚡ QuickNote
+# ⚡ QuickNoteAC
 
 > **سریع • سبک • ساده • خصوصی**
 
-**QuickNote** یک برنامه دسکتاپ سبک و سریع برای یادداشت‌برداری در **Windows** است.
+**QuickNoteAC** یک برنامه دسکتاپ سبک و سریع برای یادداشت‌برداری در **Windows** است.
 تمرکز آن روی نوشتن سریع، ویرایش متن، جستجو و دسترسی آسان به یادداشت‌ها بدون پیچیدگی‌های اضافی است.
 
 [**EN version**](https://github.com/ali-cheshomi/QuickNoteAC/blob/main/README.md)
@@ -55,7 +55,7 @@
 
 * 📌 **Always on Top**
 
-  * نمایش QuickNote روی سایر پنجره‌ها
+  * نمایش QuickNoteAC روی سایر پنجره‌ها
 
 * 📋 **Clipboard & Editing**
 
@@ -70,7 +70,7 @@
 
 * 🖥️ **System Tray**
 
-  * اجرای QuickNote در Tray
+  * اجرای QuickNoteAC در Tray
   * Restore کردن برنامه
   * کنترل نمایش در Taskbar
   * خروج سریع از برنامه
@@ -79,7 +79,7 @@
 
 ## 🌍 Language Support
 
-QuickNote برای استفاده با متن‌های فارسی و انگلیسی طراحی شده است.
+QuickNoteAC برای استفاده با متن‌های فارسی و انگلیسی طراحی شده است.
 
 * 🇮🇷 فارسی
 * 🇬🇧 English
@@ -107,7 +107,7 @@ QuickNote برای استفاده با متن‌های فارسی و انگلی�
 
 | Format | Description            |
 | ------ | ---------------------- |
-| `.acn` | فرمت اختصاصی QuickNote |
+| `.acn` | فرمت اختصاصی QuickNoteAC |
 | `.txt` | خروجی متن ساده         |
 | `*.*`  | انتخاب فایل‌های مختلف  |
 
@@ -117,7 +117,7 @@ QuickNote برای استفاده با متن‌های فارسی و انگلی�
 
 ## ⚙️ Requirements
 
-QuickNote در دو نسخه ارائه می‌شود:
+QuickNoteAC در دو نسخه ارائه می‌شود:
 
 ### .NET 8
 
@@ -131,7 +131,7 @@ QuickNote در دو نسخه ارائه می‌شود:
 
 [Download .NET 10 Desktop Runtime — Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/10.0?utm_source=chatgpt.com)
 
-> **نکته:** اگر Runtime موردنیاز روی سیستم نصب نباشد، ممکن است QuickNote اجرا نشود.
+> **نکته:** اگر Runtime موردنیاز روی سیستم نصب نباشد، ممکن است QuickNoteAC اجرا نشود.
 
 ---
 
@@ -141,7 +141,7 @@ QuickNote در دو نسخه ارائه می‌شود:
 2. فایل ZIP را Extract کنید.
 3. نسخه موردنظر را انتخاب کنید.
 4. در صورت نیاز، Runtime مربوط به همان نسخه .NET را نصب کنید.
-5. `QuickNote.exe` را اجرا کنید.
+5. `QuickNoteAC.exe` را اجرا کنید.
 6. شروع به نوشتن کنید ✍️
 
 > یادداشت ذخیره‌شده هنگام اجرای برنامه به صورت خودکار بارگذاری می‌شود.
@@ -151,9 +151,9 @@ QuickNote در دو نسخه ارائه می‌شود:
 
 ## 🚀 اجرای خودکار هنگام شروع ویندوز
 
-QuickNote امکان **اجرای خودکار هنگام روشن شدن ویندوز** را نیز دارد.
+QuickNoteAC امکان **اجرای خودکار هنگام روشن شدن ویندوز** را نیز دارد.
 
-این قابلیت **اختیاری** است و در صورت تمایل می‌توانید با قرار دادن یک Shortcut از `QuickNote.exe` در پوشه Startup ویندوز، برنامه را به‌صورت خودکار اجرا کنید.
+این قابلیت **اختیاری** است و در صورت تمایل می‌توانید با قرار دادن یک Shortcut از `QuickNoteAC.exe` در پوشه Startup ویندوز، برنامه را به‌صورت خودکار اجرا کنید.
 
 ### 📁 مسیر پیش‌فرض Startup
 
@@ -169,16 +169,16 @@ shell:startup
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
-### ➕ اضافه کردن QuickNote به Startup
+### ➕ اضافه کردن QuickNoteAC به Startup
 
-برای اجرای خودکار QuickNote هنگام ورود به ویندوز:
+برای اجرای خودکار QuickNoteAC هنگام ورود به ویندوز:
 
-1. به محل `QuickNote.exe` بروید.
+1. به محل `QuickNoteAC.exe` بروید.
 2. روی فایل راست‌کلیک کرده و گزینه **Create shortcut** را انتخاب کنید.
 3. Shortcut ساخته‌شده را در پوشه Startup کپی یا منتقل کنید.
-4. ویندوز را مجدداً اجرا کنید تا QuickNote به‌صورت خودکار اجرا شود.
+4. ویندوز را مجدداً اجرا کنید تا QuickNoteAC به‌صورت خودکار اجرا شود.
 
-> **نکته:** اضافه کردن QuickNote به Startup الزامی نیست و کاملاً اختیاری است. در صورت تمایل می‌توانید برنامه را به‌صورت دستی اجرا کنید.
+> **نکته:** اضافه کردن QuickNoteAC به Startup الزامی نیست و کاملاً اختیاری است. در صورت تمایل می‌توانید برنامه را به‌صورت دستی اجرا کنید.
 
 ---
 
@@ -186,7 +186,7 @@ shell:startup
 
 اطلاعات اصلی یادداشت به صورت محلی روی سیستم ذخیره می‌شود و نیاز به اینترنت ندارد.
 
-برای استفاده معمول از QuickNote نیازی به حساب کاربری یا اتصال به سرویس آنلاین نیست.
+برای استفاده معمول از QuickNoteAC نیازی به حساب کاربری یا اتصال به سرویس آنلاین نیست.
 
 ---
 
@@ -207,7 +207,7 @@ shell:startup
 اگر با مشکلی مواجه شدید، لطفاً یک **Issue** ایجاد کنید و اطلاعات زیر را در آن قرار دهید:
 
 * Windows Version
-* QuickNote Version
+* QuickNoteAC Version
 * Steps to Reproduce
 * Expected Behavior
 * Actual Behavior
@@ -217,7 +217,7 @@ shell:startup
 
 ## 💡 Feature Requests
 
-ایده‌ای برای بهتر شدن QuickNote دارید؟
+ایده‌ای برای بهتر شدن QuickNoteAC دارید؟
 
 یک **Feature Request** ایجاد کنید و توضیح دهید:
 
@@ -248,7 +248,7 @@ shell:startup
 
 ## 🔐 Privacy
 
-QuickNote در درجه اول یک برنامه **Local** است.
+QuickNoteAC در درجه اول یک برنامه **Local** است.
 
 یادداشت‌های کاربر روی کامپیوتر ذخیره می‌شوند و برای استفاده معمول نیازی به حساب آنلاین نیست.
 
@@ -256,7 +256,7 @@ QuickNote در درجه اول یک برنامه **Local** است.
 
 ## 🔒 License
 
-**QuickNote is Proprietary / Closed Source.**
+**QuickNoteAC is Proprietary / Closed Source.**
 
 Copyright © 2026 **MRACco / MRAC / MR_AC / Ali Chechomi**
 
@@ -270,7 +270,7 @@ Source code, binaries, branding, design and related assets are proprietary and m
 
 ## ❤️ About
 
-QuickNote با یک هدف ساده ساخته شده است:
+QuickNoteAC با یک هدف ساده ساخته شده است:
 
 > **سریع بنویس. متمرکز بمان. یادداشت‌هایت را همیشه در دسترس داشته باش.**
 
@@ -280,7 +280,7 @@ QuickNote با یک هدف ساده ساخته شده است:
 
 <div align="center">
 
-### ⚡ QuickNote
+### ⚡ QuickNoteAC
 
 **Fast • Lightweight • Simple • Private**
 
