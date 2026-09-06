@@ -1,8 +1,8 @@
-# ⚡ QuickNote
+# ⚡ QuickNoteAC
 
 > **Fast • Lightweight • Simple • Private**
 
-**QuickNote** is a lightweight and fast desktop note-taking application for **Windows**.
+**QuickNoteAC** is a lightweight and fast desktop note-taking application for **Windows**.
 It is designed for quick writing, text editing, searching, and easy access to your notes without unnecessary complexity.
 
 [**Fa version**](https://github.com/ali-cheshomi/QuickNoteAC/blob/main/README-FA.md)
@@ -55,7 +55,7 @@ It is designed for quick writing, text editing, searching, and easy access to yo
 
 * 📌 **Always on Top**
 
-  * Keep QuickNote above other windows
+  * Keep QuickNoteAC above other windows
 
 * 📋 **Clipboard & Editing**
 
@@ -80,7 +80,7 @@ It is designed for quick writing, text editing, searching, and easy access to yo
 
 ## 🌍 Language Support
 
-QuickNote is designed to work with both Persian and English text.
+QuickNoteAC is designed to work with both Persian and English text.
 
 * 🇮🇷 Persian
 * 🇬🇧 English
@@ -108,31 +108,31 @@ QuickNote is designed to work with both Persian and English text.
 
 | Format | Description                                |
 | ------ | ------------------------------------------ |
-| `.acn` | QuickNote's native file format             |
+| `.acn` | QuickNoteAC's native file format             |
 | `.txt` | Plain text export                          |
 | `*.*`  | Support for selecting different file types |
 
-QuickNote also supports **Save As**, allowing you to create a separate copy of your note.
+QuickNoteAC also supports **Save As**, allowing you to create a separate copy of your note.
 
 ---
 
 ## ⚙️ Requirements
 
-QuickNote is available in two versions:
+QuickNoteAC is available in two versions:
 
 ### .NET 8
 
-The **.NET 8 Desktop Runtime** is required to run the .NET 8 version of QuickNote.
+The **.NET 8 Desktop Runtime** is required to run the .NET 8 version of QuickNoteAC.
 
 [Download .NET 8 Desktop Runtime — Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ### .NET 10
 
-The **.NET 10 Desktop Runtime** is required to run the .NET 10 version of QuickNote.
+The **.NET 10 Desktop Runtime** is required to run the .NET 10 version of QuickNoteAC.
 
 [Download .NET 10 Desktop Runtime — Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
-> **Note:** If the required .NET Desktop Runtime is not installed, QuickNote may not start.
+> **Note:** If the required .NET Desktop Runtime is not installed, QuickNoteAC may not start.
 
 ---
 
@@ -142,18 +142,18 @@ The **.NET 10 Desktop Runtime** is required to run the .NET 10 version of QuickN
 2. Extract the downloaded ZIP file.
 3. Choose the desired version.
 4. Install the required .NET Desktop Runtime if necessary.
-5. Run `QuickNote.exe`.
+5. Run `QuickNoteAC.exe`.
 6. Start taking notes. ✍️
 
-> Your saved note will be automatically loaded when QuickNote starts.
+> Your saved note will be automatically loaded when QuickNoteAC starts.
 
 ---
 
-## 🚀 Start QuickNote with Windows
+## 🚀 Start QuickNoteAC with Windows
 
-QuickNote can be configured to **start automatically when Windows starts**.
+QuickNoteAC can be configured to **start automatically when Windows starts**.
 
-This feature is **optional**. If you want QuickNote to launch automatically, you can place a shortcut to `QuickNote.exe` in the Windows Startup folder.
+This feature is **optional**. If you want QuickNoteAC to launch automatically, you can place a shortcut to `QuickNoteAC.exe` in the Windows Startup folder.
 
 ### 📁 Default Startup Folder
 
@@ -169,14 +169,14 @@ The default Startup folder path is:
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
-### ➕ Add QuickNote to Startup
+### ➕ Add QuickNoteAC to Startup
 
-To launch QuickNote automatically when you sign in to Windows:
+To launch QuickNoteAC automatically when you sign in to Windows:
 
-1. Locate `QuickNote.exe`.
+1. Locate `QuickNoteAC.exe`.
 2. Right-click it and select **Create shortcut**.
 3. Copy or move the created shortcut to the Startup folder.
-4. Restart Windows or sign out and sign back in to verify that QuickNote starts automatically.
+4. Restart Windows or sign out and sign back in to verify that QuickNoteAC starts automatically.
 
 > **Note:** Adding QuickNote to Startup is completely optional. You can continue to launch the application manually if preferred.
 
@@ -184,7 +184,7 @@ To launch QuickNote automatically when you sign in to Windows:
 
 ## 💾 Data Storage
 
-QuickNote stores your notes **locally on your computer** and does not require an internet connection for normal use.
+QuickNoteAC stores your notes **locally on your computer** and does not require an internet connection for normal use.
 
 No user account or online service is required.
 
@@ -207,7 +207,7 @@ No user account or online service is required.
 If you encounter a problem, please create an **Issue** and include the following information:
 
 * Windows Version
-* QuickNote Version
+* QuickNoteAC Version
 * Steps to Reproduce
 * Expected Behavior
 * Actual Behavior
@@ -217,7 +217,7 @@ If you encounter a problem, please create an **Issue** and include the following
 
 ## 💡 Feature Requests
 
-Have an idea that could make QuickNote better?
+Have an idea that could make QuickNoteAC better?
 
 Feel free to create a **Feature Request** and describe:
 
@@ -248,7 +248,7 @@ Some features that may be introduced in future versions:
 
 ## 🔐 Privacy
 
-QuickNote is primarily a **local desktop application**.
+QuickNoteAC is primarily a **local desktop application**.
 
 Your notes are stored on your computer, and normal use does not require an online account or cloud service.
 
@@ -270,7 +270,7 @@ The source code, binaries, branding, design, and related assets are proprietary 
 
 ## ❤️ About
 
-QuickNote was built with one simple goal:
+QuickNoteAC was built with one simple goal:
 
 > **Write fast. Stay focused. Keep your notes always within reach.**
 
@@ -280,7 +280,7 @@ Built with ❤️ by **MRAC**
 
 <div align="center">
 
-### ⚡ QuickNote
+### ⚡ QuickNoteAC
 
 **Fast • Lightweight • Simple • Private**
 
