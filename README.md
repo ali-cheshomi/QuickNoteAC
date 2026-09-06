@@ -194,8 +194,9 @@ No user account or online service is required.
 
 > Screenshots will be added here.
 
-* [Main Window](images/QuickNoteACScreenshot1.png)
-* [Search](images/QuickNoteACScreenshot1.png)
+<img src="images/QuickNoteACScreenshot1.png" alt="Main Window" width="640" height="360">
+<img src="images/QuickNoteACScreenshot2.png" alt="Main Window" width="640" height="360">
+<img src="images/QuickNoteACScreenshot3.png" alt="Main Window" width="640" height="360">
 
 ---
 
