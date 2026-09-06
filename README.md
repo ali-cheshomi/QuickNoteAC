@@ -5,6 +5,7 @@
 **QuickNote** is a lightweight and fast desktop note-taking application for **Windows**.
 It is designed for quick writing, text editing, searching, and easy access to your notes without unnecessary complexity.
 
+[**Fa version**](https://github.com/ali-cheshomi/QuickNoteAC/blob/main/README-FA.md)
 ---
 
 ## ✨ Features
