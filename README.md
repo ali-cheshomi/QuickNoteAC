@@ -1,4 +1,4 @@
-<img width="468" height="448" alt="image" src="https://github.com/user-attachments/assets/5e582054-355b-4183-81f3-495c725f9ef6" /># ⚡ QuickNoteAC
+# ⚡ QuickNoteAC
 
 > **Fast • Lightweight • Simple • Private**
 
