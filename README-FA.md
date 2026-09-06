@@ -5,6 +5,7 @@
 **QuickNote** یک برنامه دسکتاپ سبک و سریع برای یادداشت‌برداری در **Windows** است.
 تمرکز آن روی نوشتن سریع، ویرایش متن، جستجو و دسترسی آسان به یادداشت‌ها بدون پیچیدگی‌های اضافی است.
 
+[**EN version**](https://github.com/ali-cheshomi/QuickNoteAC/blob/main/README.md)
 ---
 
 ## ✨ Features
