@@ -192,13 +192,11 @@ shell:startup
 
 ## 🖼️ Screenshots
 
-> Screenshots will be added here.
+<img src="images/QuickNoteACScreenshot1.png" alt="Main Window" width="640" height="360">
 
-* Main Window
-* Search
-* Mini Mode
-* Rich Text Editor
-* System Tray
+<img src="images/QuickNoteACScreenshot2.png" alt="Main Window" width="640" height="360">
+
+<img src="images/QuickNoteACScreenshot3.png" alt="Main Window" width="640" height="360">
 
 ---
 
