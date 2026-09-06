@@ -1,4 +1,4 @@
-# ⚡ QuickNoteAC
+<img width="468" height="448" alt="image" src="https://github.com/user-attachments/assets/5e582054-355b-4183-81f3-495c725f9ef6" /># ⚡ QuickNoteAC
 
 > **Fast • Lightweight • Simple • Private**
 
@@ -194,11 +194,8 @@ No user account or online service is required.
 
 > Screenshots will be added here.
 
-* Main Window
-* Search
-* Mini Mode
-* Text Editor
-* System Tray
+* [Main Window](images/QuickNoteACScreenshot1.png)
+* [Search](images/QuickNoteACScreenshot1.png)
 
 ---
 
